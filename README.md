@@ -12,10 +12,10 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo as follows:
 
 ```console
-helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+helm repo add kmops-prometheus https://kmops.github.io/prometheus-helm-charts
 ```
 
-You can then run `helm search repo prometheus-community` to see the charts.
+You can then run `helm search repo kmops-prometheus` to see the charts.
 
 ## Contributing
 
